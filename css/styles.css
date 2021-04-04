@@ -1,3 +1,10 @@
 :root {
-  --primary-color: #000000;
+  --primary-color: #757575;
+  --secondary-color: #212121;
+  --button-color: #2196f3;
+  --white-color: #ffffff;
+}
+body {
+  color: var(--primary-color);
+  font-family: Roboto;
 }
